@@ -16,4 +16,3 @@ Zell Liew
 
 ## License
 **MIT License**
-**Free Software, Hell Yeah!**
