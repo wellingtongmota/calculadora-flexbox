@@ -1,5 +1,7 @@
 # Calculator flexbox
 
+![image](https://user-images.githubusercontent.com/104796083/226185605-30895d45-084b-4e28-b68a-d689778be05c.png)
+
 ### _Or Calculadora flexbox in pt-BR_
 Calculator built with Html, CSS and JavaScript
 
